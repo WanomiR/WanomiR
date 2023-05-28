@@ -1,4 +1,9 @@
-### Hi there :v: 🤖
+### My repos
 
-My name is Ivan and I am passionate about machine learning, data analysis and software developement.
+***
 
+- [Practicum-DEV](https://github.com/WanomiR/Practicum-DEV)
+  - [Sprint materials](https://github.com/WanomiR/Practicum-DEV/tree/main/sprint-materials)
+  - [Background materials](https://github.com/WanomiR/Practicum-DEV/tree/main/background-materials)
+- [Data Science for Competitions](https://github.com/WanomiR/DS-compete)
+- [Deep Learning School](https://github.com/WanomiR/Deep-Learning-School)
