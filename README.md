@@ -1,4 +1,6 @@
-### Navigation
+# Data Science
+
+- [Practicum US](https://github.com/WanomiR/practicum-ds/tree/main)
 
 ***
 - [MedhoW](https://github.com/WanomiR/medhow)
