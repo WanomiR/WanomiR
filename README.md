@@ -1,16 +1,15 @@
-## Data Science
+## Case study projects
 
-Case study projects:
 - [Practicum US](https://github.com/WanomiR/practicum-ds/tree/main)
+- [Practicum-DEV](https://github.com/WanomiR/Practicum-DEV)
 - [Deep Learning School](https://github.com/WanomiR/Deep-Learning-School)
 - [An Introduction To Statistical Learning](https://github.com/WanomiR/isl/tree/main)
 
-Production projects:
-- 
+## Real projects
+- Medhow
+- EasyDoo
+- Gorgeuos Converter
 
-## Software Engineering
 
-Case study projects:
-- [Practicum-DEV](https://github.com/WanomiR/Practicum-DEV)
 
 
