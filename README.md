@@ -4,10 +4,11 @@
 - [Practicum-DEV](https://github.com/WanomiR/Practicum-DEV)
 - [Deep Learning School](https://github.com/WanomiR/Deep-Learning-School)
 - [An Introduction To Statistical Learning](https://github.com/WanomiR/isl/tree/main)
+- Backend
 
 ## Real projects
 - Medhow
-- EasyDoo
+- [EasyDoo](https://github.com/WanomiR/easydoo/tree/develop)
 - Gorgeuos Converter
 
 
