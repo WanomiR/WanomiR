@@ -1,4 +1,4 @@
 ### Table of contents
-#### SE projects
+#### SE study projects
 - [About me](https://github.com/WanomiR/about-me)
 
